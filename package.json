@@ -1,0 +1,37 @@
+{
+	"name": "HTML_STARTER_TEMPLATE",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NikolasP98/HTML_STARTER_TEMPLATE.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/NikolasP98/HTML_STARTER_TEMPLATE/issues"
+	},
+	"homepage": "https://github.com/NikolasP98/HTML_STARTER_TEMPLATE#readme",
+	"devDependencies": {
+		"@babel/core": "^7.13.14",
+		"@babel/preset-env": "^7.13.12",
+		"browser-sync": "^2.26.14",
+		"gulp": "^4.0.2",
+		"gulp-babel": "^8.0.0",
+		"gulp-concat": "^2.6.1",
+		"gulp-imagemin": "^7.1.0",
+		"gulp-sass": "^4.1.0",
+		"gulp-sourcemaps": "^3.0.0",
+		"gulp-typescript": "^6.0.0-alpha.1",
+		"gulp-uglify": "^3.0.2"
+	},
+	"dependencies": {
+		"del": "^6.0.0",
+		"path": "^0.12.7"
+	}
+}
